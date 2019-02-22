@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="mysql_enhance">
+    <output-path>$PROJECT_DIR$/out/artifacts/mysql_enhance</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="mysql_enhance" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="mysql_enhance/web/Web" />
+    </root>
+  </artifact>
+</component>

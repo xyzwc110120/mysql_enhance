@@ -3,6 +3,7 @@ package com.cyx.mysql.mysql_01_advancedQuery._01_multiconditionalQuery.query;
 import org.apache.commons.lang3.StringUtils;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 
 public class QueryObject {
@@ -45,10 +46,11 @@ public class QueryObject {
      * 暴露给子类：让子类在 customizedQuery() 方法中调用，调价自己的查询条件和参数
      *
      * @param condition 查询条件
-     * @param parameter 查询条件对应的参数
+     * @param params 查询条件对应的参数
      */
-    protected void addQuery(String condition, Object parameter) {
+    protected void addQuery(String condition, Object... params) {
         conditions.add(condition);
-        parameters.add(parameter);
+        // 将多参数转化为集合然后全部添加至参数集合中
+        parameters.addAll(Arrays.asList(params));
     }
 }

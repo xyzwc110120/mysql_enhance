@@ -7,7 +7,6 @@ import com.cyx.mysql.mysql_01_advancedQuery._01_multiconditionalQuery.dao.impl.P
 import com.cyx.mysql.mysql_01_advancedQuery._01_multiconditionalQuery.query.ProductQuery;
 import com.cyx.mysql.utils.RequestUtil.RequestParameter2QueryObject;
 
-import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
@@ -28,7 +27,7 @@ public class ProductServlet extends HttpServlet {
     }
 
     @Override
-    protected void service(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
+    protected void service(HttpServletRequest req, HttpServletResponse resp) throws IOException {
         req.setCharacterEncoding("UTF-8");
 
         // 将请求参数转换为 Query 对象

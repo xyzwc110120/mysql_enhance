@@ -16,7 +16,7 @@ public class JDBCUtil {
     static {
         try {
             Properties properties = new Properties();
-            // 通过类加载器（ClassLoader）获取 dbcp.properties 文件并转化为流
+            // 通过类加载器（ClassLoader）获取 db.properties 文件并转化为流
             properties.load(Thread.currentThread().getContextClassLoader().getResourceAsStream("db.properties"));
 
             // 通过 properties 配置文件中的键值来创建 BasicDataSource 对象。
