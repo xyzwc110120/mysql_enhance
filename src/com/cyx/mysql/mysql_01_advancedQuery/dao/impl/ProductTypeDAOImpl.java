@@ -1,8 +1,8 @@
-package com.cyx.mysql.mysql_01_advancedQuery._01_multiconditionalQuery.dao.impl;
+package com.cyx.mysql.mysql_01_advancedQuery.dao.impl;
 
 
-import com.cyx.mysql.mysql_01_advancedQuery._01_multiconditionalQuery.dao.IProductTypeDAO;
-import com.cyx.mysql.mysql_01_advancedQuery._01_multiconditionalQuery.domain.ProductType;
+import com.cyx.mysql.mysql_01_advancedQuery.dao.IProductTypeDAO;
+import com.cyx.mysql.mysql_01_advancedQuery.domain.ProductType;
 import com.cyx.mysql.utils.JDBCUtil.handler.impl.BeanListHandler;
 import com.cyx.mysql.utils.JDBCUtil.template.JDBCTemplate;
 

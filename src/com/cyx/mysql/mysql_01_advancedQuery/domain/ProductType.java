@@ -1,4 +1,4 @@
-package com.cyx.mysql.mysql_01_advancedQuery._01_multiconditionalQuery.domain;
+package com.cyx.mysql.mysql_01_advancedQuery.domain;
 
 import lombok.Getter;
 import lombok.Setter;

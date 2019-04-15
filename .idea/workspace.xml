@@ -7,16 +7,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f2cd90c-7d9a-40eb-bcd1-a7f625c21083" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/mysql_enhance.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysql_enhance.iml" beforeDir="false" afterPath="$PROJECT_DIR$/mysql_enhance.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/db.properties" beforeDir="false" afterPath="$PROJECT_DIR$/resources/db.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/cyx/mysql/mysql_01_advancedQuery/_01_multiconditionalQuery/query/ProductQuery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cyx/mysql/mysql_01_advancedQuery/_01_multiconditionalQuery/query/ProductQuery.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/cyx/mysql/mysql_01_advancedQuery/_01_multiconditionalQuery/query/QueryObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cyx/mysql/mysql_01_advancedQuery/_01_multiconditionalQuery/query/QueryObject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/cyx/mysql/mysql_01_advancedQuery/_01_multiconditionalQuery/query/TestAdd.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/cyx/mysql/mysql_01_advancedQuery/_01_multiconditionalQuery/web/servlet/product/ProductServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cyx/mysql/mysql_01_advancedQuery/_01_multiconditionalQuery/web/servlet/product/ProductServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/cyx/mysql/utils/JDBCUtil/JDBCUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cyx/mysql/utils/JDBCUtil/JDBCUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/views/product/productList.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/views/product/productList.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cyx/mysql/mysql_01_advancedQuery/dao/impl/ProductDAOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cyx/mysql/mysql_01_advancedQuery/query/PageResult.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/mysql_enhance/com/cyx/mysql/mysql_01_advancedQuery/_01_multiconditionalQuery/dao/IProductDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mysql_enhance/com/cyx/mysql/mysql_01_advancedQuery/_01_multiconditionalQuery/dao/IProductDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/mysql_enhance/com/cyx/mysql/mysql_01_advancedQuery/_01_multiconditionalQuery/dao/impl/ProductDAOImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mysql_enhance/com/cyx/mysql/mysql_01_advancedQuery/_01_multiconditionalQuery/dao/impl/ProductDAOImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/mysql_enhance/com/cyx/mysql/mysql_01_advancedQuery/_01_multiconditionalQuery/query/ProductQuery.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mysql_enhance/com/cyx/mysql/mysql_01_advancedQuery/_01_multiconditionalQuery/query/ProductQuery.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/mysql_enhance/com/cyx/mysql/mysql_01_advancedQuery/_01_multiconditionalQuery/test/ProductDAOTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mysql_enhance/com/cyx/mysql/mysql_01_advancedQuery/_01_multiconditionalQuery/test/ProductDAOTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/cyx/mysql/mysql_01_advancedQuery/_01_multiconditionalQuery/dao/IProductDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cyx/mysql/mysql_01_advancedQuery/dao/IProductDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/cyx/mysql/mysql_01_advancedQuery/_01_multiconditionalQuery/dao/IProductTypeDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cyx/mysql/mysql_01_advancedQuery/dao/IProductTypeDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/cyx/mysql/mysql_01_advancedQuery/_01_multiconditionalQuery/dao/impl/ProductDAOImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/cyx/mysql/mysql_01_advancedQuery/_01_multiconditionalQuery/dao/impl/ProductTypeDAOImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cyx/mysql/mysql_01_advancedQuery/dao/impl/ProductTypeDAOImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/cyx/mysql/mysql_01_advancedQuery/_01_multiconditionalQuery/domain/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cyx/mysql/mysql_01_advancedQuery/domain/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/cyx/mysql/mysql_01_advancedQuery/_01_multiconditionalQuery/domain/ProductType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cyx/mysql/mysql_01_advancedQuery/domain/ProductType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/cyx/mysql/mysql_01_advancedQuery/_01_multiconditionalQuery/query/ProductQuery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cyx/mysql/mysql_01_advancedQuery/query/ProductQuery.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/cyx/mysql/mysql_01_advancedQuery/_01_multiconditionalQuery/query/ProductTypeQuery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cyx/mysql/mysql_01_advancedQuery/query/ProductTypeQuery.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/cyx/mysql/mysql_01_advancedQuery/_01_multiconditionalQuery/query/QueryObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cyx/mysql/mysql_01_advancedQuery/query/QueryObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/cyx/mysql/mysql_01_advancedQuery/_01_multiconditionalQuery/test/ProductDAOTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cyx/mysql/mysql_01_advancedQuery/test/ProductDAOTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/cyx/mysql/mysql_01_advancedQuery/_01_multiconditionalQuery/web/servlet/product/ProductServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cyx/mysql/mysql_01_advancedQuery/web/servlet/product/ProductServlet.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,31 +45,28 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/cyx/mysql/mysql_01_advancedQuery/_01_multiconditionalQuery/web/servlet/product/ProductServlet.java">
+        <entry file="file://$PROJECT_DIR$/src/com/cyx/mysql/mysql_01_advancedQuery/dao/IProductDAO.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="24" column="42" selection-start-line="24" selection-start-column="42" selection-end-line="24" selection-end-column="42" />
+            <state relative-caret-position="84">
+              <caret line="8" selection-start-line="8" selection-end-line="25" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/cyx/mysql/mysql_01_advancedQuery/_01_multiconditionalQuery/query/ProductQuery.java">
+        <entry file="file://$PROJECT_DIR$/src/com/cyx/mysql/mysql_01_advancedQuery/dao/impl/ProductDAOImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="15" column="44" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
+            <state relative-caret-position="357">
+              <caret line="27" column="24" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/cyx/mysql/mysql_01_advancedQuery/_01_multiconditionalQuery/query/QueryObject.java">
+        <entry file="file://$PROJECT_DIR$/resources/db.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="21">
+              <caret line="1" column="18" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -75,6 +80,11 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Product</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -82,13 +92,19 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/cyx/mysql/mysql_01_advancedQuery/_01_multiconditionalQuery/dao/IProductDAO.java" />
         <option value="$PROJECT_DIR$/web/WEB-INF/views/product/productList.jsp" />
         <option value="$PROJECT_DIR$/resources/db.properties" />
         <option value="$PROJECT_DIR$/src/com/cyx/mysql/mysql_01_advancedQuery/_01_multiconditionalQuery/web/servlet/product/ProductServlet.java" />
         <option value="$PROJECT_DIR$/src/com/cyx/mysql/mysql_01_advancedQuery/_01_multiconditionalQuery/query/ProductQuery.java" />
         <option value="$PROJECT_DIR$/src/com/cyx/mysql/utils/JDBCUtil/JDBCUtil.java" />
         <option value="$PROJECT_DIR$/src/com/cyx/mysql/mysql_01_advancedQuery/_01_multiconditionalQuery/query/QueryObject.java" />
+        <option value="$PROJECT_DIR$/src/com/cyx/mysql/mysql_01_advancedQuery/_01_multiconditionalQuery/dao/IProductDAO.java" />
+        <option value="$PROJECT_DIR$/src/com/cyx/mysql/utils/JDBCUtil/handler/impl/BeanHandler.java" />
+        <option value="$PROJECT_DIR$/src/com/cyx/mysql/mysql_01_advancedQuery/_01_multiconditionalQuery/test/ProductDAOTest.java" />
+        <option value="$PROJECT_DIR$/src/com/cyx/mysql/mysql_01_advancedQuery/_01_multiconditionalQuery/dao/impl/ProductDAOImpl.java" />
+        <option value="$PROJECT_DIR$/src/com/cyx/mysql/mysql_01_advancedQuery/_01_multiconditionalQuery/query/PageResult.java" />
+        <option value="$PROJECT_DIR$/src/com/cyx/mysql/mysql_01_advancedQuery/query/PageResult.java" />
+        <option value="$PROJECT_DIR$/src/com/cyx/mysql/mysql_01_advancedQuery/dao/impl/ProductDAOImpl.java" />
       </list>
     </option>
   </component>
@@ -109,6 +125,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -124,47 +141,6 @@
             <path>
               <item name="mysql_enhance" type="b2602c69:ProjectViewProjectNode" />
               <item name="mysql_enhance" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mysql_enhance" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mysql_enhance" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="mysql" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mysql_enhance" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mysql_enhance" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="mysql" type="462c0819:PsiDirectoryNode" />
-              <item name="_01_multiconditionalQuery" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mysql_enhance" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mysql_enhance" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="mysql" type="462c0819:PsiDirectoryNode" />
-              <item name="_01_multiconditionalQuery" type="462c0819:PsiDirectoryNode" />
-              <item name="query" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mysql_enhance" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mysql_enhance" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="mysql" type="462c0819:PsiDirectoryNode" />
-              <item name="_01_multiconditionalQuery" type="462c0819:PsiDirectoryNode" />
-              <item name="product" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mysql_enhance" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mysql_enhance" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="mysql" type="462c0819:PsiDirectoryNode" />
-              <item name="utils" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mysql_enhance" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mysql_enhance" type="462c0819:PsiDirectoryNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -178,28 +154,19 @@
               <item name="mysql_enhance" type="462c0819:PsiDirectoryNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
               <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mysql_enhance" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mysql_enhance" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-              <item name="product" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550398737215" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553151624608" />
     <property name="last_opened_file_path" value="D:/Environment/Git/bin/git.exe" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -220,7 +187,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.ProductDAOTest.testPage">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -233,6 +200,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ProductDAOTest.testPage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mysql_enhance" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cyx.mysql.mysql_01_advancedQuery._01_multiconditionalQuery.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cyx.mysql.mysql_01_advancedQuery._01_multiconditionalQuery.test" />
+      <option name="MAIN_CLASS_NAME" value="com.cyx.mysql.mysql_01_advancedQuery._01_multiconditionalQuery.test.ProductDAOTest" />
+      <option name="METHOD_NAME" value="testPage" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -241,6 +225,7 @@
       </method>
     </configuration>
     <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <properties />
       <listeners />
@@ -424,6 +409,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ProductDAOTest.testPage" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -443,6 +433,14 @@
       <workItem from="1550394592265" duration="2092000" />
       <workItem from="1550396728678" duration="2059000" />
       <workItem from="1550845633559" duration="51000" />
+      <workItem from="1553074799033" duration="853000" />
+      <workItem from="1553076083345" duration="4225000" />
+      <workItem from="1553147037481" duration="4851000" />
+      <workItem from="1553770019860" duration="30000" />
+      <workItem from="1553770205196" duration="42000" />
+      <workItem from="1553770258311" duration="16000" />
+      <workItem from="1553771780589" duration="228000" />
+      <workItem from="1553853691049" duration="29000" />
     </task>
     <task id="LOCAL-00001" summary="测试git">
       <created>1550316096551</created>
@@ -454,14 +452,39 @@
     <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="ProductDAOTest_testPage - 2019.03.21 at 14h 44m 53s.xml">
+      <configuration name="ProductDAOTest.testPage" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProductDAOTest_testPage - 2019.03.21 at 14h 47m 10s.xml">
+      <configuration name="ProductDAOTest.testPage" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProductDAOTest_testPage - 2019.03.21 at 14h 47m 20s.xml">
+      <configuration name="ProductDAOTest.testPage" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProductDAOTest_testPage - 2019.03.21 at 14h 48m 17s.xml">
+      <configuration name="ProductDAOTest.testPage" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProductDAOTest_testPage - 2019.03.21 at 14h 50m 36s.xml">
+      <configuration name="ProductDAOTest.testPage" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProductDAOTest_testPage - 2019.03.21 at 14h 51m 07s.xml">
+      <configuration name="ProductDAOTest.testPage" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProductDAOTest_testPage - 2019.03.21 at 14h 52m 05s.xml">
+      <configuration name="ProductDAOTest.testPage" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProductDAOTest_testPage - 2019.03.21 at 14h 53m 02s.xml">
+      <configuration name="ProductDAOTest.testPage" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8637000" />
+    <option name="totallyTimeSpent" value="18911000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26865673" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29317698" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -513,52 +536,116 @@
     <option name="LAST_COMMIT_MESSAGE" value="测试git" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/cyx/mysql/mysql_01_advancedQuery/_01_multiconditionalQuery/dao/IProductTypeDAO.java">
+    <entry file="file://$PROJECT_DIR$/src/com/cyx/mysql/mysql_01_advancedQuery/dao/IProductTypeDAO.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cyx/mysql/mysql_01_advancedQuery/_01_multiconditionalQuery/domain/Product.java">
+    <entry file="file://$PROJECT_DIR$/src/com/cyx/mysql/mysql_01_advancedQuery/domain/Product.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
           <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cyx/mysql/mysql_01_advancedQuery/_01_multiconditionalQuery/dao/IProductDAO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/cyx/mysql/mysql_01_advancedQuery/_01_multiconditionalQuery/query/TestAdd.java" />
-    <entry file="file://$PROJECT_DIR$/resources/db.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="1" column="18" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/web/index.jsp">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cyx/mysql/mysql_01_advancedQuery/_01_multiconditionalQuery/test/ProductDAOTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/cyx/mysql/utils/JDBCUtil/JDBCUtil.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
           <caret line="18" column="39" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cyx/mysql/utils/JDBCUtil/handler/impl/BeanListHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cyx/mysql/mysql_01_advancedQuery/query/ProductQuery.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="683">
+          <caret line="38" column="60" selection-start-line="38" selection-start-column="60" selection-end-line="38" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cyx/mysql/utils/JDBCUtil/handler/impl/BeanHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
+          <folding>
+            <element signature="e#414#415#0" expanded="true" />
+            <element signature="e#456#457#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Environment/Java/Java_1.8/JDK/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="169" column="17" selection-start-line="169" selection-start-column="17" selection-end-line="169" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cyx/mysql/mysql_01_advancedQuery/query/QueryObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="455">
+          <caret line="34" column="24" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#855#856#0" expanded="true" />
+            <element signature="e#888#889#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cyx/mysql/mysql_01_advancedQuery/web/servlet/product/ProductServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="38" column="56" selection-start-line="38" selection-start-column="56" selection-end-line="38" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cyx/mysql/utils/JDBCUtil/template/JDBCTemplate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cyx/mysql/mysql_01_advancedQuery/query/PageResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" selection-start-line="7" selection-end-line="68" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/web/WEB-INF/lib/mysql-connector-java-8.0.13.jar!/META-INF/INDEX.LIST">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/web/WEB-INF/lib/mysql-connector-java-8.0.13.jar!/META-INF/services/java.sql.Driver">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cyx/mysql/mysql_01_advancedQuery/test/ProductDAOTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
         </state>
       </provider>
     </entry>
@@ -569,27 +656,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cyx/mysql/mysql_01_advancedQuery/_01_multiconditionalQuery/web/servlet/product/ProductServlet.java">
+    <entry file="file://$PROJECT_DIR$/src/com/cyx/mysql/mysql_01_advancedQuery/dao/IProductDAO.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="24" column="42" selection-start-line="24" selection-start-column="42" selection-end-line="24" selection-end-column="42" />
+        <state relative-caret-position="84">
+          <caret line="8" selection-start-line="8" selection-end-line="25" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cyx/mysql/mysql_01_advancedQuery/_01_multiconditionalQuery/query/ProductQuery.java">
+    <entry file="file://$PROJECT_DIR$/src/com/cyx/mysql/mysql_01_advancedQuery/dao/impl/ProductDAOImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="15" column="44" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
+        <state relative-caret-position="357">
+          <caret line="27" column="24" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cyx/mysql/mysql_01_advancedQuery/_01_multiconditionalQuery/query/QueryObject.java">
+    <entry file="file://$PROJECT_DIR$/resources/db.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="21">
+          <caret line="1" column="18" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
         </state>
       </provider>
     </entry>

@@ -1,4 +1,4 @@
-package com.cyx.mysql.mysql_01_advancedQuery._01_multiconditionalQuery.query;
+package com.cyx.mysql.mysql_01_advancedQuery.query;
 
 import org.apache.commons.lang3.StringUtils;
 
@@ -43,7 +43,7 @@ public class QueryObject {
     }
 
     /**
-     * 暴露给子类：让子类在 customizedQuery() 方法中调用，调价自己的查询条件和参数
+     * 暴露给子类：让子类在 customizedQuery() 方法中调用，添加自己的查询条件和参数
      *
      * @param condition 查询条件
      * @param params 查询条件对应的参数

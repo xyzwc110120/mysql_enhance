@@ -1,10 +1,10 @@
-package com.cyx.mysql.mysql_01_advancedQuery._01_multiconditionalQuery.web.servlet.product;
+package com.cyx.mysql.mysql_01_advancedQuery.web.servlet.product;
 
-import com.cyx.mysql.mysql_01_advancedQuery._01_multiconditionalQuery.dao.IProductDAO;
-import com.cyx.mysql.mysql_01_advancedQuery._01_multiconditionalQuery.dao.IProductTypeDAO;
-import com.cyx.mysql.mysql_01_advancedQuery._01_multiconditionalQuery.dao.impl.ProductDAOImpl;
-import com.cyx.mysql.mysql_01_advancedQuery._01_multiconditionalQuery.dao.impl.ProductTypeDAOImpl;
-import com.cyx.mysql.mysql_01_advancedQuery._01_multiconditionalQuery.query.ProductQuery;
+import com.cyx.mysql.mysql_01_advancedQuery.dao.IProductDAO;
+import com.cyx.mysql.mysql_01_advancedQuery.dao.IProductTypeDAO;
+import com.cyx.mysql.mysql_01_advancedQuery.dao.impl.ProductDAOImpl;
+import com.cyx.mysql.mysql_01_advancedQuery.dao.impl.ProductTypeDAOImpl;
+import com.cyx.mysql.mysql_01_advancedQuery.query.ProductQuery;
 import com.cyx.mysql.utils.RequestUtil.RequestParameter2QueryObject;
 
 import javax.servlet.annotation.WebServlet;
